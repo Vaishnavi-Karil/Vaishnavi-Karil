@@ -53,7 +53,7 @@ Application*. </h3>
 <h3>Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-karil/"
+    href="www.linkedin.com/in/vaishnavi-karil"
     target="blank"
     ><img
       align="center"
