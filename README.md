@@ -48,8 +48,7 @@ Application*. </h3>
   <li><strong><a href="tel:+91-9111706639">+91-9111706639</a></strong></li>
 </ul>
 
-<h3>📄 My Resume & Experience:
-<strong><a href="https://drive.google.com/file/d/1Lwj5ivnhqyasHPMcahAsX_w8a7WNMj7F/view?usp=sharing">Resume</a></strong></h3>
+
 
 <h3>Connect with me:</h3>
 <p align="left">
