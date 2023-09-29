@@ -13,7 +13,9 @@
 </p>
 
 <h3>🔭 I’m currently working in Cybite as a full-stack Next.js developer  to
-develop: E-commerce Next.js Application </h3>
+develop: 
+  E-commerce Next.js Application 
+</h3>
 
 <h3>🌱 Currently, I'm contributing to *E-commerce full-stack Next.js
 Application*. </h3>
