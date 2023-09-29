@@ -21,7 +21,7 @@ Application*. </h3>
 <h3>👯 I've contributed to 3+ live projects:</h3>
 
 <ul>
-  <li>Stackholder Mobile App (React, Ionic & capacitor)</li>
+  <li>Stackholder Web App (React, Redux)</li>
   <li>Phixman Admin Dashboard Web App (React & Redux)</li>
   <li>Socket connection with Genesys (Node.js & Express)</li>
   <li>I'm contributing an E-commerce full-stack Web App (Next.js: React, Redux, Node, Mongoose ODM, MongoDB, JWT) </li>
