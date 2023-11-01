@@ -32,11 +32,7 @@ Application*. </h3>
 <h3>👨‍💻 Project Demos on GitFront:</h3>
 <!-- - [Task Assigned in Circular Order Frontend](https://github.com/Vaishnavi-Karil/next-app) -->
 
-- [Task Assigned in Circular Order Frontend](https://github.com/Vaishnavi-Karil/next-app)
-
-
-- [Task Assigned in Circular Order REST API's](https://github.com/Vaishnavi-Karil/express-app)
-
+- [Task Assigned in Circular Order Frontend & REST API's development for it](https://github.com/Vaishnavi-Karil/next-app)
 - [Next.js 13 App Router Practice Pro](https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/)
 - [Next.js 13 Page Router for Website Template](https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/)
 - [REST API's Practice](https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/)
