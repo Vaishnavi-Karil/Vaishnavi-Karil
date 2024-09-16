@@ -17,13 +17,12 @@
   />
 </p>
 
-<h3>🔭 I’m currently working in Cybite as a full-stack Next.js developer  to
+<h3>🔭 I’m currently working in Axonic Health Pvt. Ltd. as a full-stack Next.js developer  to
 develop: 
   E-commerce Next.js Application 
 </h3>
 
-<h3>🌱 Currently, I'm contributing to *E-commerce full-stack Next.js
-Application*. </h3>
+<h3>🌱 Currently, I'm contributing to fullstack application *Template Engine,  BI Dashboard*.  and frontend application  *Patient Management System*</h3>
 
 <h3>👯 I've contributed to 3+ live projects:</h3>
 
