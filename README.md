@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Vaishnavi Karil (Full stack Next.js Developer)
+  Hi 👋, I'm Vaishnavi Karil (Full stack MERN Developer) have experties on Fullstack application development and deployment using Aws and Currently I'm contributing on aws fullstack projects.
 </h1>
 <h2 align="center">
 "Full-Stack Next.js Developer with 3+ Years of Expertise in Web & Mobile Application Development"
@@ -19,14 +19,18 @@
 
 <h3>🔭 I’m currently working in Axonic Health Pvt. Ltd. as a full-stack Next.js developer  to
 develop: 
-  E-commerce Next.js Application 
+  BI Dashbord and template Engine of AWS lamda project
 </h3>
 
 <h3>🌱 Currently, I'm contributing to fullstack application *Template Engine,  BI Dashboard*.  and frontend application  *Patient Management System*</h3>
 
-<h3>👯 I've contributed to 3+ live projects:</h3>
+<h3>👯 I've contributed to 6+ live projects, currently, I am contributing for Health care domain for Hospitals </h3>
 
 <ul>
+  <li>Bi - Dashboard</li>
+  <li> Template Engine </li>
+  <li> PMS Project ( Patient Management System ) <li>
+  <li>Phixman Admin Dashboard Web App (React & Redux)</li>
   <li>Stackholder Web App (React, Redux)</li>
   <li>Phixman Admin Dashboard Web App (React & Redux)</li>
   <li>Socket connection with Genesys (Node.js & Express)</li>
