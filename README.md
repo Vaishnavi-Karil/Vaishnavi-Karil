@@ -5,10 +5,6 @@
 "Full-Stack Next.js Developer with 3+ Years of Expertise in Web & Mobile Application Development"
 </h2>
 
-<a
-    href="https://cal.com/vaishnavi-karil/book-interview-slot"
-    target="blank"
-    > Book Interview Slot from here.. </a>
 
 <p align="left">
   <img
