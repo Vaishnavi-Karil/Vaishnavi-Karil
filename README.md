@@ -27,9 +27,9 @@ develop:
 <h3>👯 I've contributed to 6+ live projects, currently, I am contributing for Health care domain for Hospitals </h3>
 
 <ul>
-  <li>Bi - Dashboard</li>
+  <li>Bi  Dashboard</li>
   <li> Template Engine </li>
-  <li> PMS Project ( Patient Management System ) <li>
+  <li> PMS Project ( Patient Management System ) </li>
   <li>Phixman Admin Dashboard Web App (React & Redux)</li>
   <li>Stackholder Web App (React, Redux)</li>
   <li>Phixman Admin Dashboard Web App (React & Redux)</li>
