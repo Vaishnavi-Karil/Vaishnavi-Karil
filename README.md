@@ -46,7 +46,7 @@ develop:
 - [REST API's Practice](https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/)
 
 <h3>📝 I regularly focus on:
-<Strong>Next.js & MERN</Strong></h3>
+<Strong>MERN Development & AWS fullstack application development using React.js, Node.js using Lamda </Strong></h3>
 
 <h3>📫 How to reach me:</h3>
 <ul>
