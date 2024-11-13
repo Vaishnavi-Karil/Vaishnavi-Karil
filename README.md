@@ -2,7 +2,7 @@
   Hi 👋, I'm Vaishnavi Karil (Full stack MERN Developer) have experties on Fullstack application development and deployment using Aws and Currently I'm contributing on aws fullstack projects.
 </h1>
 <h2 align="center">
-"Full Stack MERN Developer with 3+ Years of Expertise in Web & Mobile Application Development using React.js , Next.js , Node, express, MongoDB, Mongoose"
+"Full Stack MERN Developer with 3 Years of Expertise in Web & Mobile Application Development using React.js , Next.js , Node, express, MongoDB, Mongoose"
 </h2>
 
 
