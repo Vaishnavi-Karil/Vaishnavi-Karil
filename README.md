@@ -14,7 +14,7 @@
 - 🌱 **Focused On:** Next, to focus on GraphQL and then development of serverless project using Lamda, React.js , Node.js using RESTful API or using GraphQL API.
 
 
-## 💻 Technical Skills
+## 💻 Technical  Experties
 
 - ⚡ **Frontend Expertise:** React.js, ReduxToolkit, Redux Thunk Typescript,  Ui developement, REST API Development and Integration, Material UI, Styled Css, CSS 3, JWT Autorization, JWT Unit Testing, Axios, Fetch API, JSX. NPM, NPX, Git, GitHUB, vercel.
 
