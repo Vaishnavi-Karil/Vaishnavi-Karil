@@ -11,16 +11,29 @@
 - 🔭 **Currently Working at:** Axonic Health Pvt. Ltd. as a **Full-Stack Next.js Developer**
 - 🚀 **Projects:** BI Dashboard, Template Engine, Patient Management System
 - 👯 **Experience:** Contributed to **6+ live projects** in the healthcare domain
-- 🌱 **Focused On:** MERN Development, AWS Full-Stack Application Development
-- ⚡ **Expertise:** React.js, Next.js, Node.js, Express.js, MongoDB, Mongoose, AWS Lambda
+- 🌱 **Focused On:** Next, to focus on GraphQL and then development of serverless project using Lamda, React.js , Node.js using RESTful API or using GraphQL API.
+
+
+## 💻 Technical Skills
+
+- ⚡ **Frontend Expertise:** React.js, ReduxToolkit, Redux Thunk Typescript,  Ui developement, REST API Development and Integration, Material UI, Styled Css, CSS 3, JWT Autorization, JWT Unit Testing, Axios, Fetch API, JSX. NPM, NPX, Git, GitHUB, vercel.
+
+- ⚡ **REST API Development Expertise:**  
+        1. Mern Stack : Node.js, Express, Mongoose ( ORM), MongoDB ( Database)
+        2. Pern Stack : Node.js , Express, PostgrSQL, PostgreS ( Database) 
+
+- ⚡ **DevOps Expertise:**  AWS Amplify ( React Frontend Deployment) , AWS Beanstalk ( Node.js Application Deployment ), Docker, Yaml & GitHub Action.
+
+- ⚡ **GraphQL API Development & Integration Is in Progress:**     Learning & Practice
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Backend**
