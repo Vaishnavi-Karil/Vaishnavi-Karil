@@ -1,9 +1,8 @@
 # Hi 👋, I'm Vaishnavi Karil
 
-## 🚀 Full Stack MERN Developer | AWS Enthusiast
+## 🚀 Full Stack MERN Developer with AWS DevOps Experities
 
-**Experienced in Full Stack Application Development & Deployment using AWS.** Currently contributing to AWS-based full-stack projects.
-
+- Experienced in Full Stack Application Development & Deployment using AWS. Currently contributing to full-stack project with AWS based Deployment using AWS Beanstalk (Node.js Application), AWS Amplify  (React Application)
 ---
 
 ## 💻 About Me
