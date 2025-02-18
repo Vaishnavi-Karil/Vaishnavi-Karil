@@ -57,7 +57,7 @@
 ### **🛠 Live Projects**
 - **BI Dashboard** *(React.js, Apex, Postgres, PostgreSQL, Axios)*
 - **Template Engine** *(React.js , Redux, Apollo Client, Apollo Server, Dynomodb, GraphQL, API Gateway)*
-- **PMS (Patient Management System)** *(React.js, Redux)*
+- **PMS (Patient Management System)** *(React.js, Redux, Axios, Material Ui, Javascript, JSX, HTML5 , CSS 3, FileReader)*
 - **Phixman Admin Dashboard Web App** *(React, Material Ui , Javascript, Redux Toolkit, Redux Thunk, Joi, redux , react forms, React Hook, Axios, Fetch)*
 - **Stackholder Web App** *(React.js , React Hooks, Redux Toolkit, Yup)*
 - **E-commerce Full Stack Web App** *(Next.js, Redux, Node.js, Mongoose, MongoDB, JWT)*
