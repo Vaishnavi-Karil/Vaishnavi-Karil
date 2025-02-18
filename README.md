@@ -1,149 +1,67 @@
-<h1 align="center">
-  Hi 👋, I'm Vaishnavi Karil (Full stack MERN Developer) have experties on Fullstack application development and deployment using Aws and Currently I'm contributing on aws fullstack projects.
-</h1>
-<h2 align="center">
-"Full Stack MERN Developer with 3 Years of Expertise in Web & Mobile Application Development using React.js , Next.js , Node, express, MongoDB, Mongoose"
-</h2>
+# Hi 👋, I'm Vaishnavi Karil
 
+## 🚀 Full Stack MERN Developer | AWS Enthusiast
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=vaishnavi-karil&label=Profile%20views&culor=0e75b6&style=flat"
-    alt="vaishnavi-karil"
-  />
-</p>
+**Experienced in Full Stack Application Development & Deployment using AWS.** Currently contributing to AWS-based full-stack projects.
 
-<h3>🔭 I’m currently working in Axonic Health Pvt. Ltd. as a full-stack Next.js developer  to
-develop: 
-  BI Dashbord and template Engine of AWS lamda project
-</h3>
+---
 
-<h3>🌱 Currently, I'm contributing to fullstack application *Template Engine,  BI Dashboard*.  and frontend application  *Patient Management System*</h3>
+## 💻 About Me
 
-<h3>👯 I've contributed to 6+ live projects, currently, I am contributing for Health care domain for Hospitals </h3>
+- 🔭 **Currently Working at:** Axonic Health Pvt. Ltd. as a **Full-Stack Next.js Developer**
+- 🚀 **Projects:** BI Dashboard, Template Engine, Patient Management System
+- 👯 **Experience:** Contributed to **6+ live projects** in the healthcare domain
+- 🌱 **Focused On:** MERN Development, AWS Full-Stack Application Development
+- ⚡ **Expertise:** React.js, Next.js, Node.js, Express.js, MongoDB, Mongoose, AWS Lambda
 
-<ul>
-  <li>Bi  Dashboard</li>
-  <li> Template Engine </li>
-  <li> PMS Project ( Patient Management System ) </li>
-  <li>Phixman Admin Dashboard Web App (React & Redux)</li>
-  <li>Stackholder Web App (React, Redux)</li>
-  <li>Phixman Admin Dashboard Web App (React & Redux)</li>
-  <li>Socket connection with Genesys (Node.js & Express)</li>
-  <li>I'm contributing an E-commerce full-stack Web App (Next.js: React, Redux, Node, Mongoose ODM, MongoDB, JWT) </li>
-</ul>
- 
-<h3>👨‍💻 Project Demos on GitFront:</h3>
-<!-- - [Task Assigned in Circular Order Frontend](https://github.com/Vaishnavi-Karil/next-app) -->
+---
 
+## 🛠️ Technologies & Tools
+
+### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+### **Authentication & Security**
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+### **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🔥 Projects
+
+### **🛠 Live Projects**
+- **BI Dashboard** *(Next.js, Redux, AWS Lambda)*
+- **Template Engine** *(Next.js, Express.js, MongoDB)*
+- **PMS (Patient Management System)** *(React.js, Redux, Node.js, Express, MongoDB)*
+- **Phixman Admin Dashboard Web App** *(React & Redux)*
+- **Stackholder Web App** *(React, Redux)*
+- **E-commerce Full Stack Web App** *(Next.js, Redux, Node.js, Mongoose, MongoDB, JWT)*
+
+### **📌 Project Demos (GitFront)**
 - [Next.js 13 App Router Practice Pro](https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/)
 - [Next.js 13 Page Router for Website Template](https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/)
 - [REST API's Practice](https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/)
 
-<h3>📝 I regularly focus on:
-<Strong>MERN Development & AWS fullstack application development using React.js, Node.js using Lamda </Strong></h3>
+---
 
-<h3>📫 How to reach me:</h3>
-<ul>
-  <li><strong><a href="mailto:vaishnavigkaril@gmail.com">vaishnavigkaril@gmail.com</a></strong></li>
-  <li><strong><a href="tel:+91-9111706639">+91-9111706639</a></strong></li>
-</ul>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-karil/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavigkaril@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=919111706639)
 
+---
 
-
-<h3>Connect with me:</h3>
-<p align="left">
-  <a
-    href="www.linkedin.com/in/vaishnavi-karil"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/vaishnavi-karil/"
-      height="40"
-      width="40"
-  /></a>
-
-   <a href="https://api.whatsapp.com/send?phone=919111706639" target="_blank">
-    <img
-      align="center"
-      src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg"
-      alt="WhatsApp"
-      height="40"
-      width="40"
-    />
-  </a>
-</p>
-
-<h3>Languages:</h3>
-<p align="left">
-  <a href="https://nextjs.org/" target="blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
-      alt="Next.js"
-      width="50"
-      height="50"
-    />
-  </a>
- <a href="https://reactjs.org/" target="blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
-      alt="React.js"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://redux.js.org/" target="blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-      alt="Redux"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://nodejs.org/" target="blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
-      alt="Node.js"
-      width="50"
-      height="50"
-    />
-  </a>
- 
-  <a href="https://mongoosejs.com/" target="blank" rel="noreferrer">
-    <img
-      src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"
-      alt="Mongoose"
-      width="62"
-      height="30"
-    />
-  </a>
-   <a href="https://www.mongodb.com/" target="blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
-      alt="Mongoose"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://jwt.io/" target="blank" rel="noreferrer">
-    <img
-      src="https://jwt.io/img/pic_logo.svg"
-      alt="JWT"
-      width="50"
-      height="50"
-    />
-  </a>
-
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
-      alt="JavaScript"
-      width="50"
-      height="50"
-    />
-  </a>
-  
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi-karil&label=Profile%20views&color=0e75b6&style=flat)
