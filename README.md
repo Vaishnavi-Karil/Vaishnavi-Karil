@@ -55,11 +55,11 @@
 ## 🔥 Projects
 
 ### **🛠 Live Projects**
-- **BI Dashboard** *(Next.js, Redux, AWS Lambda)*
-- **Template Engine** *(Next.js, Express.js, MongoDB)*
-- **PMS (Patient Management System)** *(React.js, Redux, Node.js, Express, MongoDB)*
-- **Phixman Admin Dashboard Web App** *(React & Redux)*
-- **Stackholder Web App** *(React, Redux)*
+- **BI Dashboard** *(React.js, Apex, Postgres, PostgreSQL, Axios)*
+- **Template Engine** *(React.js , Redux, Apollo Client, Apollo Server, Dynomodb, GraphQL, API Gateway)*
+- **PMS (Patient Management System)** *(React.js, Redux)*
+- **Phixman Admin Dashboard Web App** *(React, Material Ui , Javascript, Redux Toolkit, Redux Thunk, Joi, redux , react forms, React Hook, Axios, Fetch)*
+- **Stackholder Web App** *(React.js , React Hooks, Redux Toolkit, Yup)*
 - **E-commerce Full Stack Web App** *(Next.js, Redux, Node.js, Mongoose, MongoDB, JWT)*
 
 ### **📌 Project Demos (GitFront)**
