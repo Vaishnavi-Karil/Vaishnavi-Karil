@@ -13,6 +13,13 @@
 - 🌱 **Focused On:** Next, to focus on GraphQL and then development of serverless project using Lamda, React.js , Node.js using RESTful API or using GraphQL API.
 
 
+
+### **📌 My Project Production Link**
+- [Porfolio Project](https://parallex-portfolio-alpha.vercel.app/)
+- [Next.js 13 App Router Practice Pro](https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/)
+- [Next.js 13 Page Router for Website Template](https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/)
+- [REST API's Practice](https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/)
+
 ## 💻 Technical  Experties
 
 - ⚡ **Frontend Expertise:** React.js, ReduxToolkit, Redux Thunk Typescript,  Ui developement, REST API Development and Integration, Material UI, Styled Css, CSS 3, JWT Autorization, JWT Unit Testing, Axios, Fetch API, JSX. NPM, NPX, Git, GitHUB, vercel.
@@ -63,11 +70,6 @@
 - **E-commerce Full Stack Web App** *(Next.js, Redux, Node.js, Mongoose, MongoDB, JWT)*
 
 
-### **📌 My Project Production Link**
-- [Porfolio Project](https://parallex-portfolio-alpha.vercel.app/)
-- [Next.js 13 App Router Practice Pro](https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/)
-- [Next.js 13 Page Router for Website Template](https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/)
-- [REST API's Practice](https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/)
 
 ---
 
