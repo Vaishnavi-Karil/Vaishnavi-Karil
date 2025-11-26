@@ -50,7 +50,11 @@
 
 ### ⭐ Portfolio Project
 - 🔗 **Live:** https://portfolio-fullstack-mern-and-reactj.vercel.app/  
-- 📂 **GitHub:** https://github.com/Vaishnavi-Karil/Porftolio-Project  
+- 📂 **GitHub:** https://github.com/Vaishnavi-Karil/Porftolio-Project
+
+### ⭐ Blog Project
+- 🔗 **Setup** DB is not live, need to setup
+- 📂 **GitHub:** https://github.com/Vaishnavi-Karil/blog_app
 
 ### 🔥 Other Projects
 - **Next.js 13 App Router Practice Pro**  
