@@ -23,18 +23,18 @@
 
 #### Axonic Health Pvt. Ltd. — *React & Node.js Developer*
 - 🚀 **Contributed Projects:**  
-  - BI Dashboard  
-  - Template Engine  
-  - Doctor Application  
+  - BI Dashboard ( handle complete frontend & backend )
+  - Template Engine ( handle frontend & AWS )
+  - Doctor Application ( handle complete frontend )
 
 #### Phixman Technologies Pvt. Ltd. — *React.js Developer*
 - 🚀 **Contributed Projects:**  
-  - Phixman Product Web App  
+  - Phixman Product Web App ( handle complete frontend )
 
 #### Infobyd Software Solution Pvt. Ltd. — *React.js Developer*
 - 🚀 **Contributed Projects:**  
-  - Stakeholder Web App  
-  - Matrimonial Application  
+  - Stakeholder Web App  ( handle complete frontend )
+  - Matrimonial Application ( handle complete frontend )
 
 ---
 
@@ -42,7 +42,7 @@
 
 - 🌱 Deepening skills in **Data Structures**, **System Design**, and **Microservices**  
 - 🌱 Learning **Microfrontend Architecture** using React  
-- 🌱 Strengthening RDBMS expertise using **PostgreSQL** and cloud deployment via **AWS RDS**
+- 🌱 Strengthening RDBMS expertise using **PostgreSQL** and cloud deployment via **AWS**
 
 ---
 
