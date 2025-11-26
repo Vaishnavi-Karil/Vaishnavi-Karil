@@ -7,7 +7,7 @@
 - Skilled in full-stack development with strong **database experience** in **MongoDB** & **PostgreSQL**, including cloud-based deployments via  
   **AWS Beanstalk (Node.js Application)** and **AWS Amplify (React Application)**.
 
-- Strong expertise in building **REST APIs** and **frontend applications** using **React, Redux, JavaScript, and TypeScript**.
+- Strong expertise in building **REST APIs** and **frontend applications** using **React, Redux, JavaScript, and TypeScript** and **REST API's** using **Node.js & Express**.
 
 - 👯 **Experience:** Contributed to **6+ live production projects** across multiple companies.
 
