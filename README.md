@@ -1,82 +1,106 @@
 # Hi 👋, I'm Vaishnavi Karil
 
-## 🚀 Full Stack MERN Developer with AWS DevOps Experities
+## 🚀 Full Stack MERN Developer | AWS | React | Node.js
 
-- Experienced in Full Stack Application Development & Deployment using AWS. Currently contributing to full-stack project with AWS based Deployment using AWS Beanstalk (Node.js Application), AWS Amplify  (React Application)
+- Experienced **MERN Stack Developer** with strong expertise in **Frontend Web Application Development** using **React.js**, and **Backend REST API Development** using **Node.js**, **Express**, **MongoDB/Mongoose**, and **PostgreSQL (pg) with SQL queries**.
+
+- Skilled in full-stack development with strong **database experience** in **MongoDB** & **PostgreSQL**, including cloud-based deployments via  
+  **AWS Beanstalk (Node.js Application)** and **AWS Amplify (React Application)**.
+
+- Strong expertise in building **REST APIs** and **frontend applications** using **React, Redux, JavaScript, and TypeScript**.
+
+- 👯 **Experience:** Contributed to **6+ live production projects** across multiple companies.
+
 ---
 
 ## 💻 About Me
 
-- 🔭 **Currently Working at:** Axonic Health Pvt. Ltd. as a **Full-Stack Next.js Developer**
-- 🚀 **Projects:** BI Dashboard, Template Engine, Patient Management System
-- 👯 **Experience:** Contributed to **6+ live projects** in the healthcare domain
-- 🌱 **Focused On:** Next, to focus on GraphQL and then development of serverless project using Lamda, React.js , Node.js using RESTful API or using GraphQL API.
+### 🏢 Current Role
+- 🔭 **Working at:** **Neosoft Pvt. Ltd.**  
+  **Role:** Full-Stack MERN Developer
 
+### 🏢 Previous Experience
 
+#### Axonic Health Pvt. Ltd. — *React & Node.js Developer*
+- 🚀 **Contributed Projects:**  
+  - BI Dashboard  
+  - Template Engine  
+  - Doctor Application  
 
-### **📌 My Project Production Link**
-- [Porfolio Project](https://portfolio-fullstack-mern-and-reactj.vercel.app/) (https://github.com/Vaishnavi-Karil/Porftolio-Project)
-- [Next.js 13 App Router Practice Pro](https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/)
-- [Next.js 13 Page Router for Website Template](https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/)
-- [REST API's Practice](https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/)
+#### Phixman Technologies Pvt. Ltd. — *React.js Developer*
+- 🚀 **Contributed Projects:**  
+  - Phixman Product Web App  
 
-## 💻 Technical  Experties
-
-- ⚡ **Frontend Expertise:** React.js, ReduxToolkit, Redux Thunk Typescript,  Ui developement, REST API Development and Integration, Material UI, Styled Css, CSS 3, JWT Autorization, JWT Unit Testing, Axios, Fetch API, JSX. NPM, NPX, Git, GitHUB, vercel.
-
-- ⚡ **REST API Development Expertise:**  
-        1. Mern Stack : Node.js, Express, Mongoose ( ORM), MongoDB ( Database)
-        2. Pern Stack : Node.js , Express, PostgrSQL, PostgreS ( Database) 
-
-- ⚡ **DevOps Expertise:**  AWS Amplify ( React Frontend Deployment) , AWS Beanstalk ( Node.js Application Deployment ), Docker, Yaml & GitHub Action.
-
-- ⚡ **GraphQL API Development & Integration Is in Progress:**     Learning & Practice
+#### Infobyd Software Solution Pvt. Ltd. — *React.js Developer*
+- 🚀 **Contributed Projects:**  
+  - Stakeholder Web App  
+  - Matrimonial Application  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📈 Upskilling & Learning
+
+- 🌱 Deepening skills in **Data Structures**, **System Design**, and **Microservices**  
+- 🌱 Learning **Microfrontend Architecture** using React  
+- 🌱 Strengthening RDBMS expertise using **PostgreSQL** and cloud deployment via **AWS RDS**
+
+---
+
+## 📌 My Project Production Links
+
+### ⭐ Portfolio Project
+- 🔗 **Live:** https://portfolio-fullstack-mern-and-reactj.vercel.app/  
+- 📂 **GitHub:** https://github.com/Vaishnavi-Karil/Porftolio-Project  
+
+### 🔥 Other Projects
+- **Next.js 13 App Router Practice Pro**  
+  https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/
+
+- **Next.js 13 Page Router Website Template**  
+  https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/
+
+- **REST API Practice (Node.js + PostgreSQL)**  
+  https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/
+
+---
+
+## 💻 Technical Expertise
 
 ### **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- React.js  
+- Redux Toolkit, Redux Thunk  
+- JavaScript (ES6+), TypeScript  
+- Material UI, Styled Components  
+- Responsive Design  
+- JWT Authentication  
+- Axios, Fetch API  
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+- Node.js  
+- Express.js  
+- REST API Development  
+- Mongoose  
+- PostgreSQL (pg + raw SQL queries)  
 
 ### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
-### **Authentication & Security**
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+- MongoDB  
+- PostgreSQL  
+- AWS RDS (Postgres)  
 
 ### **Cloud & Deployment**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🔥 Projects
-
-### **🛠 Live Projects**
-- **BI Dashboard** *(React.js, Apex, Postgres, PostgreSQL, Axios)*
-- **Template Engine** *(React.js , Redux, Apollo Client, Apollo Server, Dynomodb, GraphQL, API Gateway)*
-- **PMS (Patient Management System)** *(React.js, Redux, Axios, Material Ui, Javascript, JSX, HTML5 , CSS 3, FileReader)*
-- **Phixman Admin Dashboard Web App** *(React, Material Ui , Javascript, Redux Toolkit, Redux Thunk, Joi, redux , react forms, React Hook, Axios, Fetch)*
-- **Stackholder Web App** *(React.js , React Hooks, Redux Toolkit, Yup)*
-- **E-commerce Full Stack Web App** *(Next.js, Redux, Node.js, Mongoose, MongoDB, JWT)*
-
-
+- AWS Amplify (React Deployment)  
+- AWS Beanstalk (Node.js Deployment)  
+- Docker  
+- GitHub Actions  
+- Vercel  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-karil/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavigkaril@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=919111706639)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-karil/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vaishnavigkaril@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=919111706639)
 
 ---
 
