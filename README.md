@@ -53,7 +53,7 @@
 - 📂 **GitHub:** https://github.com/Vaishnavi-Karil/Porftolio-Project
 
 ### ⭐ Blog Project
-- 🔗 **Setup** DB is not live, need to setup
+- 🔗 **Setup:** DB is not live, need to setup
 - 📂 **GitHub:** https://github.com/Vaishnavi-Karil/blog_app
 
 ### 🔥 Other Projects
