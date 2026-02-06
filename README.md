@@ -1,111 +1,65 @@
 # Hi 👋, I'm Vaishnavi Karil
 
-## 🚀 Full Stack MERN Developer | AWS | React | Node.js
+🚀 **Full Stack MERN Developer | AWS | React | Node.js | Microservices | Microfrontend**
 
-- Experienced **MERN Stack Developer** with strong expertise in **Frontend Web Application Development** using **React.js**, and **Backend REST API Development** using **Node.js**, **Express**, **MongoDB/Mongoose**, and **PostgreSQL (pg) with SQL queries**.
+Experienced **Full Stack MERN Developer** with strong expertise in **Frontend Web Application Development** using **React.js** and **Backend REST API Development** using **Node.js, Express, MongoDB, and PostgreSQL (pg with raw SQL queries)**.
 
-- Skilled in full-stack development with strong **database experience** in **MongoDB** & **PostgreSQL**, including cloud-based deployments via  
-  **AWS Beanstalk (Node.js Application)** and **AWS Amplify (React Application)**.
-
-- Strong expertise in building **REST APIs** and **frontend applications** using **React, Redux, JavaScript, and TypeScript** and **REST API's** using **Node.js & Express**.
-
-- 👯 **Experience:** Contributed to **6+ live production projects** across multiple companies.
+I have worked on **enterprise-scale production applications**, cloud deployments, and modern architectures like **Microservices** and **Microfrontend**.
 
 ---
 
 ## 💻 About Me
 
-### 🏢 Current Role
-- 🔭 **Working at:** **Neosoft Pvt. Ltd.**  
-  **Role:** Full-Stack MERN Developer
-
-### 🏢 Previous Experience
-
-#### Axonic Health Pvt. Ltd. — *React & Node.js Developer*
-- 🚀 **Contributed Projects:**  
-  - BI Dashboard ( handle complete frontend & backend )
-  - Template Engine ( handle frontend & AWS )
-  - Doctor Application ( handle complete frontend )
-
-#### Phixman Technologies Pvt. Ltd. — *React.js Developer*
-- 🚀 **Contributed Projects:**  
-  - Phixman Product Web App ( handle complete frontend )
-
-#### Infobyd Software Solution Pvt. Ltd. — *React.js Developer*
-- 🚀 **Contributed Projects:**  
-  - Stakeholder Web App  ( handle complete frontend )
-  - Matrimonial Application ( handle complete frontend )
+- 🔭 **Current Company:** Neosoft Pvt. Ltd.  
+- 👩‍💻 **Role:** Full Stack MERN Developer  
+- 📍 **Location:** Pune, India  
+- 👯 **Experience:** 3+ years | 6+ live production projects  
 
 ---
 
-## 📈 Upskilling & Learning
+## 🏢 Professional Experience
 
-- 🌱 Deepening skills in **Data Structures**, **System Design**, and **Microservices**  
-- 🌱 Learning **Microfrontend Architecture** using React  
-- 🌱 Strengthening RDBMS expertise using **PostgreSQL** and cloud deployment via **AWS**
+### **Neosoft Pvt. Ltd. — Full Stack MERN Developer**
+*Present*
 
----
-
-## 📌 My Project Production Links
-
-### ⭐ Portfolio Project
-- 🔗 **Live:** https://portfolio-fullstack-mern-and-reactj.vercel.app/  
-- 📂 **GitHub:** https://github.com/Vaishnavi-Karil/Porftolio-Project
-
-### ⭐ Blog Project
-- 🔗 **Setup:** DB is not live, need to setup
-- 📂 **GitHub:** https://github.com/Vaishnavi-Karil/blog_app
-
-### 🔥 Other Projects
-- **Next.js 13 App Router Practice Pro**  
-  https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/
-
-- **Next.js 13 Page Router Website Template**  
-  https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/
-
-- **REST API Practice (Node.js + PostgreSQL)**  
-  https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/
+- Developed and maintained **enterprise-level web applications**
+- Built **RESTful APIs** using **Node.js & Express**
+- Worked extensively with **MongoDB (Mongoose)** and **PostgreSQL (pg + SQL queries)**
+- Implemented **JWT-based authentication & authorization**
+- Collaborated with cross-functional teams for feature development
+- Hands-on experience with **cloud deployments & CI/CD**
 
 ---
 
-## 💻 Technical Expertise
+### **Axonic Health Pvt. Ltd. — React & Node.js Developer**
 
-### **Frontend**
-- React.js  
-- Redux Toolkit, Redux Thunk  
-- JavaScript (ES6+), TypeScript  
-- Material UI, Styled Components  
-- Responsive Design  
-- JWT Authentication  
-- Axios, Fetch API  
+**Projects:**
+- BI Dashboard (Complete Frontend & Backend)
+- Template Engine (Frontend & AWS)
+- Doctor Application (Complete Frontend)
 
-### **Backend**
-- Node.js  
-- Express.js  
-- REST API Development  
-- Mongoose  
-- PostgreSQL (pg + raw SQL queries)  
-
-### **Database**
-- MongoDB  
-- PostgreSQL  
-- AWS RDS (Postgres)  
-
-### **Cloud & Deployment**
-- AWS Amplify (React Deployment)  
-- AWS Beanstalk (Node.js Deployment)  
-- Docker  
-- GitHub Actions  
-- Vercel  
+- Used **MongoDB** for healthcare data
+- Built scalable APIs using **Node.js & Express**
 
 ---
 
-## 📫 Connect with Me
+### **Phixman Technologies Pvt. Ltd. — React.js Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-karil/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vaishnavigkaril@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=919111706639)
+- Developed **Phixman Product Web App**
+- Complete ownership of frontend using **React.js**
+- API integration and responsive UI development
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaishnavi-karil&label=Profile%20views&color=0e75b6&style=flat)
+### **Infobyd Software Solution Pvt. Ltd. — React.js Developer**
+
+- Stakeholder Web Application
+- Matrimonial Application
+- Built reusable UI components using **React & Material UI**
+
+---
+
+## 🎓 Certifications
+
+- ✅ **Microservices Architecture Certification**
+- ✅ **Microfrontend Architecture Certificati**
