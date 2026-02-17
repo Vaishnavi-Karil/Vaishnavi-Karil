@@ -115,18 +115,6 @@ Worked on **enterprise-scale production applications**, cloud deployments, and m
 - 🔗 **Status:** Database setup pending
 - 📂 **GitHub:** https://github.com/Vaishnavi-Karil/blog_app
 
-### 🔥 Other Projects
-- **Next.js 13 App Router Practice Pro**  
-  https://gitfront.io/r/user-2846876/FWNB1pqUPdGN/devshopify-frontend/
-
-- **Next.js 13 Page Router Website Template**  
-  https://gitfront.io/r/user-2846876/YMjqfrbq3aTj/Asidebar-Or-Drawer/
-
-- **REST API Practice (Node.js + PostgreSQL)**  
-  https://gitfront.io/r/user-2846876/sRc7VtJMcc4e/devshopify-nextjs-backend/
-
----
-
 ## 📫 Connect with Me
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/vaishnavi-karil/
